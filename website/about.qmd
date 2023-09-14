@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Hello, this website is a page about Michelle. I just moved to Canada for the MDS program at UBC.
+Hi! I recently moved to Canada for my grad studies in Data Science at the University of British Columbia. 
