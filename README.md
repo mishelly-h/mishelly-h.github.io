@@ -1,3 +1,2 @@
 # mishelly-h.github.io
-
-hello, this is the readme file
+Hello! This is Michelle's Website. Stay tuned!
