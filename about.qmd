@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-Hi! I recently moved to Canada for my grad studies in Data Science at the University of British Columbia. 
