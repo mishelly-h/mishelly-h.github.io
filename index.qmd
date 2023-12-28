@@ -2,4 +2,8 @@
 title: "Michelle's Blog"
 ---
 
-This is the website of Michelle. Work in progress... stay tuned!
+Hey there! Originally from Switzerland, I am currently living in Vancouver. I have my background in Business and Economics and but decided to switch things up and dive  into the exciting universe of Data Science. 🚀
+
+Through most of my education, I wasn't exactly best friends with math and technical subjects and tried to dodge whenever possible. But some of the courses were mandatory and I wasn't able avoid them. The result? I found myself having to retake a statistics class. It wasn't until I started my Masters in Business and Economics when I had to take yet another mandatory statistics course. But this time I aced the course. A bit suprized but way more encouraged, I started to take more statistics courses and tought myself programming so that I could take computer science courses. Hooked by this newfound fascination, I wanted more and applied for a Master of Data Science.
+
+Now, I am on a mission, rocking my Master's in Data Science at UBC in the heart of Vancouver. When I am not crunching numbers, mastering algorithms or - let's be honest - fixing bugs, you'll catch me either soaking in the city buzz or enjoying some outdoor bliss. Whether it's hiking the Swiss Alps or exploring the beauty of Vancouver's nature spots, I am all about trying to find that perfect mix of data and downtime. 
