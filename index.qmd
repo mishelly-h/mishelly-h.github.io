@@ -1,6 +1,6 @@
 ---
 title: "Whoami"
-image: ../img/portrait.jpg
+image: /img/portrait.jpg
 about:
   template: broadside
   links:
