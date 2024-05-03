@@ -1,0 +1,4 @@
+About me
+
+\
+![](../img/outdoor.jpg){fig-align="center" width=99%}

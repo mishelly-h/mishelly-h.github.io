@@ -3,16 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "Michelle's Website"
+  title: "Michelle Hunn"
   navbar:
+    background: primary
+    search: true
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mhunn/
+      - icon: github
+        href: https://github.com/mishelly-h
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
+      - href: pages/about.qmd
+        text: About Me
+      - href: pages/projects.qmd
         text: Projects
+  page-footer: 
+    left: "Copyright 2024, Michelle Hunn" 
 
 format:
   html:
-    theme: cosmo
+    theme: lux 
     css: styles.css
     toc: true
