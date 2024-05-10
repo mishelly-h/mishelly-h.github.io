@@ -1,4 +1,48 @@
-About me
+# About me
+
+## Education
+
+#### Master of Data Science (UBC)
+(2023 - 2024)
+
+**Key courses:**
+
+- Machine Learning: Supervised & Unsupervised; Classification, Regression, Neural Networks (such as FFN, CNN, RNN), Language Modelling (NLP), Feature Selection, Time Series & Temporal Models
+- Statistics: Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression
+- Relational Databases & Database Management: PostgreSQL, NoSQL, MongoDB
+- Data Visualization: 
+    - Python: Altair, matplotlib, plotly, Dash 
+    - R: ggplot, Shiny
+- ML Ops & Software Development: CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows
+- Web & Cloud Computing: AWS, Spark
+- Data Structures & Algorithms
+- Data Privacy & Ethics
+
+
+#### Master of Arts in Business and Economics (UZH)
+(2021 - 2023)
+
+**Exchange semester:** University of Southern Denmark, Denmark (spring 2022)
+
+**Thesis:** Human activity recognition from warable sensor data using supervised machine learning
+
+**Key courses:** Digital Marketing, Interactive Data Visualization, IT Security, Network Science
+
+#### Bachelor of Arts in Business and Economics (UZH)
+(2017 - 2021)
+
+**Exchange year:** University of Lincoln, England (spring 2020 - autumn 2021)
+
+**Thesis:** Study the role of Machiavellian leaders on group performance
+
+**Key courses:** Accounting, Banking and Finance, Business Administration, Macroeconomics, Microeconomics, Statistics
+
+## Work Experience
+in progress
+
+
+## Hobbies and Interests
+During my downtime, I am generally outside. My greatest passion is horses and I love to spend time at the stables. I also enjoy hiking, biking, and swimming as well as skiing in the winter.
 
 \
 ![](../img/outdoor.jpg){fig-align="center" width=99%}

@@ -9,15 +9,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Whoami",
+    "title": "Michelle Hunn",
     "section": "",
-    "text": "Hey there! Originally from Switzerland, I am currently living in Vancouver. I have my background in Business and Economics and but decided to switch things up and dive into the universe of Data Science. 🚀\nThrough most of my education, I wasn’t exactly best friends with math and technical subjects and tried to dodge whenever possible. But some of the courses were mandatory and I wasn’t able avoid them. The result? I found myself having to retake a statistics class. It wasn’t until I started my Masters in Business and Economics when I had to take yet another mandatory statistics course. But this time I aced the course. A bit suprized but way more encouraged, I started to take more statistics courses and tought myself programming so that I could take computer science courses. Hooked by this newfound fascination, I wanted more and applied for a Master of Data Science.\nNow, I am on a mission, rocking my Master’s in Data Science at UBC in the heart of Vancouver. When I am not crunching numbers, mastering algorithms or - let’s be honest - fixing bugs, you’ll catch me either soaking in the city buzz or enjoying some outdoor bliss. Whether it’s hiking the Swiss Alps, exploring the beauty of Vancouver’s nature spots or being around horses, I am all about trying to find that perfect mix of data and downtime.\n\n\n\n\n\n\nAbout Me\nLearn more about my experiences and background\n\n\n\n\nProjects\nExplore some of my open source projects"
+    "text": "MICHELLE HUNN\n\n\nData Scientist with a background in Business and Economics\n\n\nI am currently a Master of Data Science student at the University of British Columbia (UBC). Before coming to Vancouver I studied at the University of Zurich (UZH), where I obtained a Bachelor and Master of Arts in Business and Economics.\n\nRead about some of my previous projects:\nProjects\n\n\nLearn more about me:\nWhoami"
   },
   {
     "objectID": "pages/about.html",
     "href": "pages/about.html",
-    "title": "Michelle Hunn",
+    "title": "About me",
     "section": "",
-    "text": "About me"
+    "text": "(2023 - 2024)\nKey courses:\n\nMachine Learning: Supervised & Unsupervised; Classification, Regression, Neural Networks (such as FFN, CNN, RNN), Language Modelling (NLP), Feature Selection, Time Series & Temporal Models\nStatistics: Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression\nRelational Databases & Database Management: PostgreSQL, NoSQL, MongoDB\nData Visualization:\n\nPython: Altair, matplotlib, plotly, Dash\nR: ggplot, Shiny\n\nML Ops & Software Development: CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows\nWeb & Cloud Computing: AWS, Spark\nData Structures & Algorithms\nData Privacy & Ethics\n\n\n\n\n(2021 - 2023)\nExchange semester: University of Southern Denmark, Denmark (spring 2022)\nThesis: Human activity recognition from warable sensor data using supervised machine learning\nKey courses: Digital Marketing, Interactive Data Visualization, IT Security, Network Science\n\n\n\n(2017 - 2021)\nExchange year: University of Lincoln, England (spring 2020 - autumn 2021)\nThesis: Study the role of Machiavellian leaders on group performance\nKey courses: Accounting, Banking and Finance, Business Administration, Macroeconomics, Microeconomics, Statistics\n\n\n\n\nin progress\n\n\n\nDuring my downtime, I am generally outside. My greatest passion is horses and I love to spend time at the stables. I also enjoy hiking, biking, and swimming as well as skiing in the winter."
+  },
+  {
+    "objectID": "pages/about.html#education",
+    "href": "pages/about.html#education",
+    "title": "About me",
+    "section": "",
+    "text": "(2023 - 2024)\nKey courses:\n\nMachine Learning: Supervised & Unsupervised; Classification, Regression, Neural Networks (such as FFN, CNN, RNN), Language Modelling (NLP), Feature Selection, Time Series & Temporal Models\nStatistics: Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression\nRelational Databases & Database Management: PostgreSQL, NoSQL, MongoDB\nData Visualization:\n\nPython: Altair, matplotlib, plotly, Dash\nR: ggplot, Shiny\n\nML Ops & Software Development: CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows\nWeb & Cloud Computing: AWS, Spark\nData Structures & Algorithms\nData Privacy & Ethics\n\n\n\n\n(2021 - 2023)\nExchange semester: University of Southern Denmark, Denmark (spring 2022)\nThesis: Human activity recognition from warable sensor data using supervised machine learning\nKey courses: Digital Marketing, Interactive Data Visualization, IT Security, Network Science\n\n\n\n(2017 - 2021)\nExchange year: University of Lincoln, England (spring 2020 - autumn 2021)\nThesis: Study the role of Machiavellian leaders on group performance\nKey courses: Accounting, Banking and Finance, Business Administration, Macroeconomics, Microeconomics, Statistics"
+  },
+  {
+    "objectID": "pages/about.html#work-experience",
+    "href": "pages/about.html#work-experience",
+    "title": "About me",
+    "section": "",
+    "text": "in progress"
+  },
+  {
+    "objectID": "pages/about.html#hobbies-and-interests",
+    "href": "pages/about.html#hobbies-and-interests",
+    "title": "About me",
+    "section": "",
+    "text": "During my downtime, I am generally outside. My greatest passion is horses and I love to spend time at the stables. I also enjoy hiking, biking, and swimming as well as skiing in the winter."
   }
 ]

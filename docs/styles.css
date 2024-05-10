@@ -1,2 +1,37 @@
 /* css styles */
 b,strong {font-weight: bold}
+
+blockquote {
+    background-color: #ffffff;
+    border-left: 0px solid #ffffff; 
+    margin: 0em 0.5em; 
+    padding: 0em 0em;
+    padding-bottom: 2em;
+    text-align: center;
+    p{
+        font-style: italic;
+        font-size: 18px;
+        color: #5d5d5d;
+    }
+  }
+
+.buttons {
+    background-color: #ffffff;
+    margin: 0em 0; 
+    padding: 0em 0em;
+    font-size: 18px;
+    color: secondary;
+    text-align: center;
+  }
+
+.mytitle {
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 0em 0em;
+    padding-bottom: 1em;
+    p{
+        font-size: 32px;
+        font-weight: bold;
+        color: #333;
+    }
+}

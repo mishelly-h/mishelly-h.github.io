@@ -16,7 +16,7 @@ website:
       - href: index.qmd
         text: Home
       - href: pages/about.qmd
-        text: About Me
+        text: Whoami
       - href: pages/projects.qmd
         text: Projects
   page-footer: 
