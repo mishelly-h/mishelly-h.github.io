@@ -1,4 +1,6 @@
-# About me
+---
+title: "Whoami"
+---
 
 Below a summary of what I have been up to for the last couple of years and how I transisioned from Business and Economics to Data Science.
 
@@ -64,4 +66,4 @@ During this intership I was involved in building relationships with partners suc
 During my downtime, I am generally outside. My greatest passion are horses and I love to spend time at the stables. I also enjoy hiking, biking, and swimming as well as skiing in the winter.
 
 \
-![](../img/outdoor.jpg){fig-align="center" width=99%}
+![](../img/outdoor.jpg){fig-align="center" width=100%}
