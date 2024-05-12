@@ -1,6 +1,10 @@
 # About me
 
+Below a summary of what I have been up to for the last couple of years and how I transisioned from Business and Economics to Data Science.
+
 ## Education
+During my bachelor thesis, I tried to carry out a data analysis independently for the first time. But I was completely overwhelmed and applied methods to my data that I knew violated model assumptions. This was what ignited the initial spark and motivated me to expand my toolbox. So I started attending more statistics courses during my master's degree and got more and more insights into coding. Eventually, I started teaching myself how to code in Python in the summer of 2022. But I wanted more and so I changed my minor to Information Systems and decided to use my master thesis as an opportunity to learn about Machine Learning. Convinced that I wanted to improve my skills in statistics and machine learning, I applied for the Master of Data Science. A few months later I sat in a plane flying across the Atlantic...
+
 
 #### Master of Data Science (UBC)
 (2023 - 2024)
@@ -38,11 +42,26 @@
 **Key courses:** Accounting, Banking and Finance, Business Administration, Macroeconomics, Microeconomics, Statistics
 
 ## Work Experience
-in progress
+
+#### Intern Market Development (FinGuide, Zürich)
+(July 2021 - August 2021)
+
+During this internship I was responsible to concpetualize and implement an email marketing campaign. With the help of Google Analytics, I tracked the success of the campaign.
+
+#### Graduate Skills Builder (University of Lincoln)
+(February 2020 - April 2020)
+
+This project was part of an extracurricular program to support students in the acquisition of industry experience. The goal of our project was to increase the effectiveness of a brewery’s marketing to acquire tenants for their pubs.
+
+
+#### Intern Business Development (Bestag, Zürich)
+(June 2019 - Deceber 2019)
+
+During this intership I was involved in building relationships with partners such as fiduciary and lawyers. I made contributions to social media and adapted documents and processed form French-speaking Switzerland to German-speaking Switzerland.
 
 
 ## Hobbies and Interests
-During my downtime, I am generally outside. My greatest passion is horses and I love to spend time at the stables. I also enjoy hiking, biking, and swimming as well as skiing in the winter.
+During my downtime, I am generally outside. My greatest passion are horses and I love to spend time at the stables. I also enjoy hiking, biking, and swimming as well as skiing in the winter.
 
 \
 ![](../img/outdoor.jpg){fig-align="center" width=99%}
