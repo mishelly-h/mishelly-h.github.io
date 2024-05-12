@@ -2,8 +2,9 @@
 title: "Projects"
 ---
 
-## Technical Projects
+Below a selection of some technical projects as well as summaries of my Bachelor and Master Thesis. If you are interested in learning more about any of the projects, click on the link below the summary.
 
+## Technical Projects
 
 #### Dash Dashboard: Happiness Dashboard
 The dashboard visually represents the global happiness score as well as the happiness scores of various countries and regions. The World Happiness Tracker App is designed to make the analysis of global happiness accessible and interactive. With this tool, you can compare happiness scores and discover trends. 

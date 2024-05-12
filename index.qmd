@@ -1,5 +1,4 @@
 ---
-id: hero-heading
 toc: false
 about:
   template: solana
