@@ -27,3 +27,5 @@ format:
     theme: lux 
     css: styles.css
     toc: true
+    toc-depth: 3
+    code-fold: true

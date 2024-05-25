@@ -35,3 +35,11 @@ blockquote {
         color: #333;
     }
 }
+
+.thesis-page-image {
+  display: block;
+  width: 100%; 
+  height: calc(100vw / 4);
+  max-height: calc(100vw / 4); /* Enforce height to be half of the width */
+  object-fit: cover; /* Ensure the image scales correctly */
+}

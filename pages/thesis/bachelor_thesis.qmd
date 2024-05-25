@@ -1,0 +1,21 @@
+---
+title: Bachelor Thesis
+pagetitle: Bachelor Thesis
+subtitle: An Empirical Study to examine the Relationship between a Leader’s Machiavellianism and the Followers’ pro-Group unethical behaviour
+format:
+  html:
+    theme: default
+    toc: true
+    toc-depth: 2
+    code-fold: true
+---
+
+![](../../img/bachelor.jpg){fig-align="center" class="thesis-page-image"}
+
+For my bachelor thesis, I conducted an empirical study to analyse the relationship between the leader’s Machiavellianism and the followers’ pro-group unethical behaviour. Also, I investigated whether conscientiousness of the followers moderates this relationship.
+
+Some definitions: Machiavellianism refers to a personality trait that is associated with manipulative behaviour, disregard for moral standards and striving for control and status. Pro-group unethical behaviour refers to a concept where an individual engages in unethical behaviour with the intention to support the group. Finally, conscientiousnes is a dimension of the big five personality traits which are used to measure personality. Conscientious individuals are said to be organised, disciplined and tend to adhere by their ethical principles.
+
+For employers, it can be crucial to understand the reasons why employees may engage in unethical behaviour. If companies are able to understand the underlying motivation for unethical behaviour, they have the opportunity to recognise warning signals and prevent scandals.
+
+Using regression analysis, I tested the hypotheses on data from 115 participants. I found no support for either hypothesis. The results are discussed and recommendations for improving the experiment are made. Limitations of the research are that the experimenter could have influenced the participants in ways that were not accounted for. Furthermore, the participants did know know each other before the experiment and the team spirit for each session greatly varied.
