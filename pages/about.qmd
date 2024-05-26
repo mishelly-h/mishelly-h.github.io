@@ -2,48 +2,34 @@
 title: "Whoami"
 ---
 
-Below a summary of what I have been up to for the last couple of years and how I transitioned from Business and Economics to Data Science.
+**From Business to Data Science:** During my bachelor thesis, I tried to carry out a data analysis independently for the first time. But I was completely overwhelmed and applied methods to my data that I knew violated model assumptions. This was what ignited the initial spark and motivated me to expand my toolbox. So I started attending more statistics courses during my master's degree and got more and more insights into coding. Eventually, I started teaching myself how to code in Python in the summer of 2022. But I wanted more and so I changed my minor to Information Systems and decided to use my master thesis as an opportunity to learn about Machine Learning. Convinced that I wanted to improve my skills in statistics and machine learning, I applied for the Master of Data Science. A few months later I sat in a plane flying across the Atlantic...
 
 ## Education
-During my bachelor thesis, I tried to carry out a data analysis independently for the first time. But I was completely overwhelmed and applied methods to my data that I knew violated model assumptions. This was what ignited the initial spark and motivated me to expand my toolbox. So I started attending more statistics courses during my master's degree and got more and more insights into coding. Eventually, I started teaching myself how to code in Python in the summer of 2022. But I wanted more and so I changed my minor to Information Systems and decided to use my master thesis as an opportunity to learn about Machine Learning. Convinced that I wanted to improve my skills in statistics and machine learning, I applied for the Master of Data Science. A few months later I sat in a plane flying across the Atlantic...
-
+![](../img/education.jpg){fig-align="center" class="whoami-page-image"}
 
 #### Master of Data Science (UBC)
 (2023 - 2024)
 
-**Key courses:**
-
-- Machine Learning: Supervised & Unsupervised; Classification, Regression, Neural Networks (such as FFN, CNN, RNN), Language Modelling (NLP), Feature Selection, Time Series & Temporal Models
-- Statistics: Predictive & Descriptive Statistical Inference, A/B Testing, Hypothesis Testing, Bayesian Statistics, Regression
-- Relational Databases & Database Management: PostgreSQL, NoSQL, MongoDB
-- Data Visualization: 
-    - Python: Altair, matplotlib, plotly, Dash 
-    - R: ggplot, Shiny
-- ML Ops & Software Development: CI/CD, Containerization, Reproducibility, Data Science Workflows, Unit Testing, Automated Workflows
-- Web & Cloud Computing: AWS, Spark
-- Data Structures & Algorithms
-- Data Privacy & Ethics
-
+- **Capstone Project:** Develop a Machine Learning Pipeline to predict liquefaction of soil.
+- **Key Topics:** A/B Testing, Classification, Cloud Computing (AWS, Spark), Clustering, Data Visualization, Databases (SQL), Language Modelling (NLP), Neural Networks, Regression, Software Development (CI/CD, Unit Testing), Statistical Inference, Time Series & Temporal Models
+   
 
 #### Master of Arts in Business and Economics (UZH)
 (2021 - 2023)
 
-**Exchange semester:** University of Southern Denmark, Denmark (spring 2022)
-
-**Thesis:** Human activity recognition from warable sensor data using supervised machine learning
-
-**Key courses:** Digital Marketing, Interactive Data Visualization, IT Security, Network Science
+- **Thesis:** Human activity recognition from warable sensor data using supervised machine learning
+- **Exchange Semester:** University of Southern Denmark, Denmark (spring 2022)
+- **Key Courses:** Digital Marketing, Interactive Data Visualization, IT Security, Network Science
 
 #### Bachelor of Arts in Business and Economics (UZH)
 (2017 - 2021)
 
-**Exchange year:** University of Lincoln, England (spring 2020 - autumn 2021)
-
-**Thesis:** Study the role of Machiavellian leaders on group performance
-
-**Key courses:** Accounting, Banking and Finance, Business Administration, Macroeconomics, Microeconomics, Statistics
+- **Thesis:** Study the role of Machiavellian leaders on group performance
+- **Exchange Year:** University of Lincoln, England (spring 2020 - autumn 2021)
+- **Key Courses:** Accounting, Banking and Finance, Business Administration, Macroeconomics, Microeconomics, Statistics
 
 ## Work Experience
+![](../img/work.jpg){fig-align="center" class="whoami-page-image"}
 
 #### Intern Market Development (FinGuide, Zürich)
 (July 2021 - August 2021)
@@ -63,7 +49,6 @@ During this internship I was involved in building relationships with partners su
 
 
 ## Hobbies and Interests
-During my downtime, I am generally outside. My greatest passion are horses and I love to spend time at the stables. I also enjoy hiking, biking, and swimming as well as skiing in the winter.
+![](../img/outdoor.jpg){fig-align="center" class="whoami-page-image"}
 
-\
-![](../img/outdoor.jpg){fig-align="center" width=100%}
+During my downtime, I am generally outside. My greatest passion are horses and I love to spend time at the stables. I also enjoy hiking, biking, and swimming as well as skiing in the winter.

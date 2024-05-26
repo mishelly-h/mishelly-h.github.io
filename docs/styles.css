@@ -35,3 +35,19 @@ blockquote {
         color: #333;
     }
 }
+
+.thesis-page-image {
+  display: block;
+  width: 100%; 
+  height: calc(100vw / 4);
+  max-height: calc(100vw / 4); 
+  object-fit: cover;
+}
+
+.whoami-page-image {
+  display: block;
+  width: 100%; 
+  height: calc(100vw / 7);
+  max-height: calc(100vw / 7);
+  object-fit: cover;
+}
