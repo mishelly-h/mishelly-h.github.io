@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projects</title>
+<title>Projects | Michelle Hunn</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -61,38 +59,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -163,127 +130,90 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<div class="card">
+<div class="card-image">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://dsci-532-2024-3-world-happiness-tracker.onrender.com/"><img src="..\img/happiness.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+<section id="python-dashboard" class="level5 card-content">
+<h5 class="anchored" data-anchor-id="python-dashboard">Python Dashboard</h5>
+<p>A Dash dashboard to explore global happiness scores and trends. (page may take a while to load)</p>
+<div class="card-date">
+<p>April, 2024</p>
+</div>
+</section>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://github.com/mishelly-h/Snow-Switzerland"><img src="..\img/snow.jpeg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+<section id="r-dashoard" class="level5 card-content">
+<h5 class="anchored" data-anchor-id="r-dashoard">R Dashoard</h5>
+<p>A Shiny dashboard to explore snow measurement in Switzerland.</p>
+<div class="card-date">
+<p>April, 2024</p>
+</div>
+</section>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://passwordler.readthedocs.io/en/latest/?badge=latest"><img src="..\img/passwordler.jpg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+<section id="python-package" class="level5 card-content">
+<h5 class="anchored" data-anchor-id="python-package">Python Package</h5>
+<p>A package that provides password management tools in Python.</p>
+<div class="card-date">
+<p>Feb, 2024</p>
+</div>
+</section>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../pages/thesis/master_thesis.html"><img src="..\img/master.jpg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+<section id="master-thesis" class="level5 card-content">
+<h5 class="anchored" data-anchor-id="master-thesis">Master Thesis</h5>
+<p>Human Activity Recognition From Wearable Sensor Data Using Supervised Machine Learning Algorithms.</p>
+<div class="card-date">
+<p>Nov, 2023</p>
+</div>
+</section>
+</div>
+<div class="card">
+<div class="card-image">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../pages/thesis/bachelor_thesis.html"><img src="..\img/bachelor.jpg" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div>
+<section id="bachelor-thesis" class="level5 card-content">
+<h5 class="anchored" data-anchor-id="bachelor-thesis">Bachelor Thesis</h5>
+<p>Study the Relationship between a Leader’s Machiavellianism and the Followers’ pro-Group unethical behaviour.</p>
+<div class="card-date">
+<p>Aug, 2021</p>
+</div>
+</section>
+</div>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1711954800000">
-<a href="" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../img/happiness.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Python Dashboard
-</h5>
-<div class="card-text listing-description">
-A Dash dashboard to explore global happiness scores and trends. (page may take a while to load)
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Apr, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1711954800000">
-<a href="" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../img/snow.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-R Dashoard
-</h5>
-<div class="card-text listing-description">
-A Shiny dashboard to explore snow measurement in Switzerland.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Apr, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1706774400000">
-<a href="" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../img/passwordler.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Python Package
-</h5>
-<div class="card-text listing-description">
-A package that provides password management tools in Python.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Feb, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1698822000000" data-listing-file-modified-sort="1716678255389" data-listing-reading-time-sort="2">
-<a href="../pages/thesis/master_thesis.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../img/master.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Master Thesis
-</h5>
-<div class="card-text listing-description">
-Human Activity Recognition From Wearable Sensor Data Using Supervised Machine Learning Algorithms.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Nov, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1627801200000" data-listing-file-modified-sort="1716677891740" data-listing-reading-time-sort="2">
-<a href="../pages/thesis/bachelor_thesis.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="../img/bachelor.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Bachelor Thesis
-</h5>
-<div class="card-text listing-description">
-Study the Relationship between a Leader’s Machiavellianism and the Followers’ pro-Group unethical behaviour.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Aug, 2021
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
