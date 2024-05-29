@@ -1,41 +1,93 @@
 ---
-pagetitle: Projects
-title: Projects
+pagetitle: Projects | Michelle Hunn
+title: "Projects"
 subtitle: "Below a selection of some technical projects as well as summaries of my Bachelor and Master Thesis."
-listing:
-  contents:
-    - website: https://dsci-532-2024-3-world-happiness-tracker.onrender.com/
-      image: /img/happiness.jpeg
-      title: "Python Dashboard"
-      description: "A Dash dashboard to explore global happiness scores and trends. (page may take a while to load)"
-      date: April, 2024
-    
-    - website: https://passwordler.readthedocs.io/en/latest/?badge=latest
-      image: /img/passwordler.jpg
-      title: "Python Package"
-      description: "A package that provides password management tools in Python."
-      date: Feb, 2024
-    
-    - website: https://github.com/mishelly-h/Snow-Switzerland
-      image: /img/snow.jpeg
-      title: "R Dashoard"
-      description: "A Shiny dashboard to explore snow measurement in Switzerland."
-      date: April, 2024
-
-    - path: thesis/master_thesis.qmd
-      image: /img/master.jpg
-      title: "Master Thesis"
-      description: "Human Activity Recognition From Wearable Sensor Data Using Supervised Machine Learning Algorithms."
-      date: Nov, 2023
-
-    - path: thesis/bachelor_thesis.qmd
-      image: /img/bachelor.jpg
-      title: "Bachelor Thesis"
-      description: "Study the Relationship between a Leader’s Machiavellianism and the Followers’ pro-Group unethical behaviour."
-      date: Aug, 2021
-
-  date-format: "MMM, YYYY"
-  sort: "date acs"
-  type: grid
-  fields: [image, title, description, date]
 ---
+
+
+:::::: {.card}
+:::: {.card-image}
+[![](/img/happiness.jpeg)](https://dsci-532-2024-3-world-happiness-tracker.onrender.com/)
+::::
+
+:::: {.card-content}
+##### Python Dashboard
+A Dash dashboard to explore global happiness scores and trends. (page may take a while to load)
+
+:::{.card-date}
+April, 2024
+:::
+::::
+::::::
+
+
+
+
+:::::: {.card}
+:::: {.card-image}
+[![](/img/snow.jpeg)](https://github.com/mishelly-h/Snow-Switzerland)
+::::
+
+:::: {.card-content}
+##### R Dashoard
+A Shiny dashboard to explore snow measurement in Switzerland.
+
+:::{.card-date}
+April, 2024
+:::
+::::
+::::::
+
+
+
+
+:::::: {.card}
+:::: {.card-image}
+[![](/img/passwordler.jpg)](https://passwordler.readthedocs.io/en/latest/?badge=latest)
+::::
+
+:::: {.card-content}
+##### Python Package
+A package that provides password management tools in Python.
+
+:::{.card-date}
+Feb, 2024
+:::
+::::
+::::::
+
+
+
+
+:::::: {.card}
+:::: {.card-image}
+[![](/img/master.jpg)](thesis/master_thesis.qmd)
+::::
+
+:::: {.card-content}
+##### Master Thesis
+Human Activity Recognition From Wearable Sensor Data Using Supervised Machine Learning Algorithms.
+
+:::{.card-date}
+Nov, 2023
+:::
+::::
+::::::
+
+
+
+
+:::::: {.card}
+:::: {.card-image}
+[![](/img/bachelor.jpg)](thesis/bachelor_thesis.qmd)
+::::
+
+:::: {.card-content}
+##### Bachelor Thesis
+Study the Relationship between a Leader’s Machiavellianism and the Followers’ pro-Group unethical behaviour.
+
+:::{.card-date}
+Aug, 2021
+:::
+::::
+::::::
