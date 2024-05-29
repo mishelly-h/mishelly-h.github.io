@@ -1,6 +1,6 @@
 ---
 title: Bachelor Thesis
-pagetitle: Bachelor Thesis
+pagetitle: Bachelor Thesis | Michelle Hunn
 subtitle: An Empirical Study to examine the Relationship between a Leader’s Machiavellianism and the Followers’ pro-Group unethical behaviour
 format:
   html:

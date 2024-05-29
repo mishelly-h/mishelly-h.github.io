@@ -1,4 +1,5 @@
 ---
+pagetitle: Michelle Hunn
 toc: false
 about:
   template: solana

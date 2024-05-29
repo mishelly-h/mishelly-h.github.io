@@ -1,6 +1,6 @@
 ---
 title: Master Thesis
-pagetitle: Master Thesis
+pagetitle: Master Thesis | Michelle Hunn
 subtitle: Human Activity Recognition From Wearable Sensor Data Using Supervised Machine Learning Algorithms 
 format:
   html:
@@ -16,6 +16,6 @@ My thesis aimed at providing a proof of concept for a larger project exploring c
 
 Next, I designed an experiment to collect the data needed. The experimental setup incorporated Inertial Measurement Unit (IMU) sensors and proximity sensors, both operating at a sampling frequency of 45 Hz. In order to being able to collect the proximity data, each experiment round was performed in groups of two. In total, six participants participated in the experiment, yielding nearly 12 hours of sensor data. After the labelling and pre-preocessing, the data set comprised 1,231,213 rows of data. 
 
-Then, I built and trined two Machine Learning (ML) models on this data set to classify the activities. One model is based on the LeNet architecture and the other employs a Recurrent Neural Network (RNN) with Gated Recurrent Unit (GRU) layers. The LeNet-based model achieved a classification accuracy of 98.5%, while the GRU model achieved an accuracy of 88.1%. 
+Then, I built and trained two Machine Learning (ML) models on this data set to classify the activities. One model is based on the LeNet architecture and the other employs a Recurrent Neural Network (RNN) with Gated Recurrent Unit (GRU) layers. The LeNet-based model achieved a classification accuracy of 98.5%, while the GRU model achieved an accuracy of 88.1%. 
 
 Limitations such as the small sample size of six participants and limited computational power were acknowledged. Further research could focus on increasing the number of activities, improving the performance of the GRU-based RNN and exploring other neural network architectures to better capture dependencies in the data. Overall, the thesis presents a proof of concept for the detection of ten activities related to a persons’s everyday life. 
