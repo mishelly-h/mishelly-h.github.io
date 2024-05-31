@@ -11,7 +11,7 @@ subtitle: "Below a selection of some technical projects as well as summaries of 
 ::::
 
 :::: {.card-content}
-##### Python Dashboard
+##### [Python Dashboard](https://dsci-532-2024-3-world-happiness-tracker.onrender.com/)
 A Dash dashboard to explore global happiness scores and trends. (page may take a while to load)
 
 :::{.card-date}
@@ -29,7 +29,7 @@ April, 2024
 ::::
 
 :::: {.card-content}
-##### R Dashoard
+##### [R Dashoard](https://github.com/mishelly-h/Snow-Switzerland)
 A Shiny dashboard to explore snow measurement in Switzerland.
 
 :::{.card-date}
@@ -47,7 +47,7 @@ April, 2024
 ::::
 
 :::: {.card-content}
-##### Python Package
+##### [Python Package](https://passwordler.readthedocs.io/en/latest/?badge=latest)
 A package that provides password management tools in Python.
 
 :::{.card-date}
@@ -65,7 +65,7 @@ Feb, 2024
 ::::
 
 :::: {.card-content}
-##### Master Thesis
+##### [Master Thesis](thesis/master_thesis.qmd)
 Human Activity Recognition From Wearable Sensor Data Using Supervised Machine Learning Algorithms.
 
 :::{.card-date}
@@ -83,7 +83,7 @@ Nov, 2023
 ::::
 
 :::: {.card-content}
-##### Bachelor Thesis
+##### [Bachelor Thesis](thesis/bachelor_thesis.qmd)
 Study the Relationship between a Leader’s Machiavellianism and the Followers’ pro-Group unethical behaviour.
 
 :::{.card-date}
